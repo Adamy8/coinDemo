@@ -43,7 +43,7 @@ imnum = 1
 img_exists = True
 
 while img_exists:
-    imname = dirname + '-' + str(imnum) + '.jpg'
+    imname = dirname + '_' + str(imnum) + '.jpg'
     impath = os.path.join(dirpath, imname)
     if os.path.exists(impath):
         imnum = imnum + 1
