@@ -1,6 +1,10 @@
 collecting datasets, and labelling them using labelImg
-
 labelImg will produce file in PASCAL format, usually used in tensorFlow API
 
 it can be converted into COCO/YOLO using convertion tool eg. roboflow
 
+labelImg hotkeys:
+    W : create rect box
+    crtl + s : Save
+    D : next image
+    A : previous image
