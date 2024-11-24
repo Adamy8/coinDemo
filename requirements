@@ -10,6 +10,8 @@ google-pasta==0.2.0
 h5py==3.11.0
 idna==3.10
 importlib_metadata==8.5.0
+labelImg==1.8.6
+lxml==5.3.0
 Markdown==3.7
 MarkupSafe==2.1.5
 numpy==1.24.3
@@ -20,6 +22,9 @@ packaging==24.2
 protobuf==4.25.5
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
+PyQt5==5.15.11
+PyQt5-Qt5==5.15.15
+PyQt5_sip==12.15.0
 requests==2.32.3
 requests-oauthlib==2.0.0
 rsa==4.9
