@@ -7,13 +7,13 @@
 - 🪙 Detect US coins
 - 💰 Deployed to show your totoal money
 
-## Visualization 🕶️
+## Visualization 🥽
 <img src="./result.jpg" alt="Example detection" width="500"/>
 
 ## In work
 - Too few quarter pics in dataset => poor behavior in detecting quarters
 
-## Clone this projsct
+## Clone this project
 ```
   git clone https://github.com/Adamy8/coinDemo.git
 ```
